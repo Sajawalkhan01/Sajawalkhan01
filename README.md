@@ -23,7 +23,7 @@
 
 ### 👋 About Me
 
-I'm a **Software Engineer and AI Engineer** from **FAST-NUCES Islamabad**, building products that pair clean full-stack engineering with practical AI. I work across the stack — React/Next.js frontends, FastAPI and Node.js backends, PostgreSQL and Redis data layers — and ship them with Docker, Kubernetes, and CI/CD pipelines.
+I'm a **Software and an AI Engineer** from **FAST-NUCES Islamabad**, building products that pair clean full-stack engineering with practical AI. I work across the stack — React/Next.js frontends, FastAPI and Node.js backends, PostgreSQL and Redis data layers — and ship them with Docker, Kubernetes, and CI/CD pipelines.
 
 - 🔭 Currently building **CivicPulse**, an AI-powered municipal complaint triage and operations platform
 - 🧠 Integrating LLMs (**OpenAI, Claude, Gemini**) into real applications and automating workflows with **n8n**
